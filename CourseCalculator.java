@@ -16,6 +16,10 @@ public class CourseCalculator {
         couresePreRequisiteMap.put("CSC100",Arrays.asList());
         System.out.println(couresePreRequisiteMap);
 
+        System.out.println(couresePreRequisiteMap);
+
+
+
 
     }
 }
