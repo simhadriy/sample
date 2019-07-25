@@ -15,6 +15,8 @@ public class CourseCalculator {
         couresePreRequisiteMap.put("CSC200",Arrays.asList("CSC100"));
         couresePreRequisiteMap.put("CSC100",Arrays.asList());
         System.out.println(couresePreRequisiteMap);
+        
+        /*Tested my file */
 
         System.out.println(couresePreRequisiteMap);
 
