@@ -24,4 +24,8 @@ public class CourseCalculator {
 
 
     }
+    
+    public static getUserName() {
+        System.out.println(couresePreRequisiteMap);
+    }
 }
