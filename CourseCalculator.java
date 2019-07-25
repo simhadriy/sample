@@ -24,4 +24,10 @@ public class CourseCalculator {
 
 
     }
+
+    public static getUserName() {
+        couresePreRequisiteMap.put("CSC300",Arrays.asList("CSC100","CSC200"));
+        couresePreRequisiteMap.put("CSC200",Arrays.asList("CSC100"));
+    }
+}
 }
